@@ -45,7 +45,7 @@ body {
   width: 100%;
   opacity: 0;
   transition: .3s ease;
-  background-color: hsl(215, 51%, 70%);
+  background-color: rgba(0, 255, 247, 50%);
 
 }
 .image:hover .overlay {
